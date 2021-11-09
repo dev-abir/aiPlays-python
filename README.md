@@ -6,7 +6,7 @@ A flock of birds will try to survive in this game (rather environment), the best
 
 It uses the concept of Evolutionary artificial neural networks (EANNs), or Evolving Neural Networks. I did this project mainly to get some idea of neural networks, machine learning in a somewhat interesting way. I used [this](https://towardsdatascience.com/evolving-neural-networks-b24517bb3701) article a lot, and also studied some free content whatever I could get on the internet :)
 
-Wrote this a couple of months back, around May and uploading this on November. There are places, where this codebase can be improved.... Suggestions, bug-reports, bug-fixes are always welcome :)
+Wrote this a couple of months back, around May and uploading this on November. There are places, where this codebase and the simulation can be improved.... Suggestions, bug-reports, bug-fixes are always welcome :)
 
 ## How to play
 
