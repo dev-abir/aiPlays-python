@@ -1,0 +1,10 @@
+.*
+!.gitignore
+
+# pycahrm file
+*.iml
+
+# virtual environment
+venv
+
+__pycache__
