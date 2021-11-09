@@ -1,6 +1,6 @@
 # AI plays-python
 
-A simple flappy bird game, where the player is AI.
+A simple flappy bird game, written in Python, where the player is AI.
 
 A flock of birds will try to survive in this game (rather environment), the best ones will continue, rest will die. Much like our evolution :)
 
